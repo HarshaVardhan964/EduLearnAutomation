@@ -1,0 +1,20 @@
+# Maven target folder
+target/
+
+# IDE specific files
+*.iml
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Drivers
+drivers/
+
+# Reports
+reports/
+
+# OS specific
+.DS_Store
+Thumbs.db
