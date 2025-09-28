@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="EduLearn Suite">
+    <listeners>
+        <listener class-name="TestComponents.Listeners"/>
+    </listeners>
+    <test name="Login Tests">
+        <classes>
+            <class name="TestPack.LoginTest"/>
+        </classes>
+    </test>
+</suite>
